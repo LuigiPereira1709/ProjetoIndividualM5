@@ -4,7 +4,7 @@
 Este repositório contém o relatório pedido no projeto individual do módulo 5
 ****
 ## Requisitos do projeto:
-- **Realizar análise da base de dados fornecida {link para o arquivo}**
+- **Realizar análise da base de dados fornecida [source data]([SE]_[M5]_Projeto_Individual_FONTE_DE_DADOS.xlsx)**
 - **Fornecer feedbacks para a visualização {link para visualizacao} fornecida na documentação do projeto**
 - **Criar 3 ou mais visualizações para responder as perguntas feitas na doc**
 - **Fornecer insights e soluções para a problemática dos funcionários deixando a empresa**
