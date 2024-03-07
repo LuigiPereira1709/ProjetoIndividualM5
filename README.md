@@ -33,7 +33,7 @@ para seu chefe? O objetivo é pensar além de mostrar simplesmente dados e mostr
 o contexto da história.
 
 ## Relatório Abaixo:
-{link para o arquivo }
+[Relatório](relatorio.md)
 
 ## Ferramentas utilizadas:
 - **Tableau**
