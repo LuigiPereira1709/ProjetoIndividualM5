@@ -68,7 +68,7 @@
 - Limitação de Variáveis: Dificulta a visualização de dados com muitas variáveis, tornando o gráfico complexo e difícil de interpretar.
 - Distorção de Escala: A manipulação da escala dos eixos pode distorcer a percepção das diferenças reais entre os dados.
 - Dificuldade de Visualização Detalhes: Em casos com muitas categorias, a visualização de detalhes e valores específicos pode ser dificultada.
-
+****
 ### Gráfico 2: Top 5 setores com maior frequência de desligamento
 ![](./ImagesM5/GraficoDeCalor.png)
 
@@ -90,7 +90,7 @@
 - Distorção Perceptiva: O tamanho das áreas pode distorcer a percepção das proporções reais, especialmente quando as áreas são muito pequenas ou semelhantes em tamanho.
 - Sensibilidade à Ordem dos Dados: A ordem em que os dados são apresentados pode influenciar a percepção das informações.
 - Dificuldade de Comparação Precisa: Dificulta a comparação precisa de valores absolutos, pois a área das áreas não é proporcional aos valores reais.
-
+****
 ### Gráfico 3: Correlação entre frequência e possibilidade da saída impactar a empresa
 ![](ImagesM5/GraficoDeDispersao.png)
 
